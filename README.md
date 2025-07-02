@@ -2,7 +2,7 @@
  
  <h1>I :heart: Solving Real Life Problems! </h1>
 
-I am Anugya Parashar,a passionate data enthusiast. If Data is considered as the new oil or gold, I definitely would like to be a gold digger". Passionate about building scalable data solutions, I specialize in designing, building, and maintaining scalable data pipelines and systems, with extensive experience in AWS and Azure cloud platforms. Having worked at Market risk team for barclays as a client, I bring over 3+ yrs of data engineering expertise on the table, along with investment banking industy experience. 
+I am Anugya Parashar, a passionate data enthusiast. If Data is considered as the new oil or gold, I definitely would like to be a gold digger". Passionate about building scalable data solutions, I specialize in designing, building, and maintaining scalable data pipelines and systems, with extensive experience in AWS and Azure cloud platforms. Having worked at Market Risk team for Barclays as a client, I bring over 3+ yrs of data engineering expertise on the table, along with investment banking industy experience. 
 
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
